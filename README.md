@@ -10,3 +10,7 @@ Why to use asm and MS-DOS without floating point? Well, the answer is simple: ju
 All sources are located in the project directories with several common libraries for math and GUI that located in the LIBS directory. There are bat-files to compile projects, but you will need [TASM](https://en.wikipedia.org/wiki/Turbo_Assembler) that should be located in the ASM directory. Already compiled binaries are located in the root.
 
 ## Screenshots
+![Input form](https://github.com/mikhail-yurovskiy/interval-math/blob/master/SCREENSHOTS/KONTR1-1.png)
+![Integration results](https://github.com/mikhail-yurovskiy/interval-math/blob/master/SCREENSHOTS/KONTR1-2.png)
+!["Please wait" form](https://github.com/mikhail-yurovskiy/interval-math/blob/master/SCREENSHOTS/KONTR3-1.png)
+![Graph results](https://github.com/mikhail-yurovskiy/interval-math/blob/master/SCREENSHOTS/KONTR3-2.png)
